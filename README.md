@@ -12,7 +12,7 @@
 
 ---
 
-## 📈 My Journey (Road to 2030)
+## 📈 My Journey 
 I have committed to practicing coding and system architecture every single day. My goal is to master the flow of data—from raw ingestion to AI-driven insights.
 
 - 🔭 I’m currently working on: Enhancing my Python and automation scripting skills.
