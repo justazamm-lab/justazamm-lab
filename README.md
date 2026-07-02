@@ -21,11 +21,11 @@ I have committed to practicing coding and system architecture every single day. 
 
 ---
 
-## 📊 My GitHub Stats
+## Coding Profiles
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justazamm-lab&show_icons=true&theme=radical)
+- LeetCode: https://leetcode.com/u/MOHAMMED_AZAM07/
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justazamm-lab&layout=compact&theme=radical)
+![LeetCode Stats](https://github-readme-leetcode-card.romitsagu.com/MOHAMMED_AZAM07)
 
 ---
 
