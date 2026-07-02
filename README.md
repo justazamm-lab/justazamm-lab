@@ -8,7 +8,7 @@
 
 - **Languages:** Python (Advanced Fundamentals), SQL (Core Queries)
 - **Databases & Tools:** MySQL, Git & GitHub
-- **Currently Learning:** Object-Oriented Programming (OOPs), Advanced SQL Joins, and Linux
+- **Currently Learning:** Advanced SQL  and Linux
 
 ---
 
